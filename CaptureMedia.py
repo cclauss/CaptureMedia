@@ -53,7 +53,7 @@ class CaptureMedia(ui.View):
         global gcm
         gcm = self
         self.version = '2.1'
-        self.source = 'Original posted on Pythonista forum'
+        self.source = 'https://github.com/tjferry14/CaptureMedia'
         self.name = 'Capture'
         self.message = None
         self.file_name = None
